@@ -1,5 +1,7 @@
 # 2026_schulz_scaffold_hopping
 
+<a href="https://doi.org/10.5281/zenodo.21068942"><img src="https://zenodo.org/badge/1284970891.svg" alt="DOI"></a>
+
 This repository contains the custom Cell Painting analysis scripts used in the manuscript:
 
 **Structure-based Scaffold Hopping Reveals Strategies to Overcome Oncogenic KIT and PDGFRA Mutation-Driven Drug-Resistance in GIST**
