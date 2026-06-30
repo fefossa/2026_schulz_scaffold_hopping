@@ -8,6 +8,8 @@ T. Schulz, M. Beerbaum, A. Scrima, H. Jantzen, A. Teuber, T. Mühlenberg, L. Ebe
 
 Preprint: https://doi.org/10.21203/rs.3.rs-8307571/v1
 
+This repository contains only the custom scripts developed for this study. The general Cell Painting analysis framework is available separately in the [COMAS Cell Painting repository](https://github.com/mpimp-comas/cellpainting).
+
 ## Contents
 
 - `01_cellpainting_pca_analysis.ipynb` – main analysis notebook.
